@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on java
-- 📫 you to reach me on instagram as Karim_rex_09
+- 📫 you can reach me on instagram at Karim_rex_09
 
 <!---
 RexKarim/RexKarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
